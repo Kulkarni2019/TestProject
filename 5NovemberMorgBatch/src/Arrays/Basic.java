@@ -22,7 +22,6 @@ public class Basic {
 		s[2]="Manju";
 		s[3]="Priya";
 		s[4]="Rutuja";
-		s[5]= "Shreya";
 
 		for(int i=0;i<=5;i++)
 		{
